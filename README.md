@@ -3,10 +3,13 @@
 My name is Iris and im loctaed in Berlin. Currently I´m working on my skills in coding and learning everything about webdevelopment. Im an open minded person who likes to learn new things and im curous about the next steps 😉
 
 
-![coding image](https://upload.wikimedia.org/wikipedia/commons/1/16/Parallax-scroll-example.gif)**
+![coding image](https://upload.wikimedia.org/wikipedia/commons/1/16/Parallax-scroll-example.gif)
 
 
-
+*Things I like:*
+- nature 
+- the color orange
+- giraffes
 
 <!--
 **IrisHerholz/IrisHerholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
