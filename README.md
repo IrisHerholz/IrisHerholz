@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi @all 👋
+
+My name is Iris and im loctaed in Berlin. Currently I´m working on my skills in coding and learning everything about webdevelopment. Im an open minded person who likes to learn new things and im curous about the next steps 😉
+
+
+
 
 <!--
 **IrisHerholz/IrisHerholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
