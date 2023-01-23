@@ -5,10 +5,6 @@ My name is Iris and im loctaed in Berlin. Currently I´m working on my skills in
 ![image2](https://64.media.tumblr.com/a081b92840ec0ee5b321e6449c34b161/tumblr_pxtp6dtz641w3y4ilo2_r1_640.gif)
 
 *Things I like:*
-- nature 
-- the color orange
-- giraffes
-
 
 <!--
 **IrisHerholz/IrisHerholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
